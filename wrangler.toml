@@ -42,7 +42,7 @@ NODE_ENV = "production"
 [[env.production.d1_databases]]
 binding = "DB"
 database_name = "katelyatv-db"
-database_id = "your-d1-database-id-here"
+database_id = "5248b5c3-c82b-453e-aa7a-1755f076da0b"
 
 [build]
 command = "pnpm pages:build"
